@@ -48,3 +48,9 @@ body{
 .col12{
     width: 940px;
 }
+
+.col11 nav ul li{
+    list-style: none;
+}
+.col11 nav ul li a{
+}
